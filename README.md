@@ -31,7 +31,7 @@
     <!-- Contacto -->
     <h3 style="color: #79C0FF;">Contáctame:</h3>
     <p>
-        <a href="www.linkedin.com/in/brahiam-merchan-05564823b" target="_blank" style="color: #58A6FF; text-decoration: none;">
+        <a href="www.linkedin.com/in/brahiam-merchan" target="_blank" style="color: #58A6FF; text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="mailto:brahiamf1299@gmail.com" style="color: #58A6FF; text-decoration: none;">
